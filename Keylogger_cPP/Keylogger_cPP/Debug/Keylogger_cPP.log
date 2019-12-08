@@ -1,0 +1,4 @@
+﻿  Keylogger_cPP.cpp
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(65): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(34): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
