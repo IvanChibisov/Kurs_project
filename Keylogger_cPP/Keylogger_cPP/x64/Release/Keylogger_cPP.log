@@ -1,0 +1,11 @@
+﻿  Keylogger_cPP.cpp
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\pch.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(37): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(67): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+  Создание кода
+  2 of 88 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Keylogger_cPP.vcxproj -> E:\Курсач-5 сем\Keylogger_cPP\x64\Release\Keylogger_cPP.exe

@@ -1,5 +1,8 @@
 ﻿  Keylogger_cPP.cpp
-e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(8): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(11): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
   e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\pch.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
-e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(65): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(160): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(224): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(229): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+e:\курсач-5 сем\keylogger_cpp\keylogger_cpp\keylogger_cpp.cpp(306): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
   Keylogger_cPP.vcxproj -> E:\Курсач-5 сем\Keylogger_cPP\x64\Debug\Keylogger_cPP.exe
